@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rashko Semkov
+- 👋 Hi, I’m Rashko Semkov, student at SoftUni
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python(OOP), which will be followed by Django and JS.
   
